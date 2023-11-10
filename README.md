@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/cre
-## Available Scripts
+## Available Sc
 
 In the project directory, you ca
 Runs the app in the development mode.\
