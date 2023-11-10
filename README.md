@@ -3,7 +3,7 @@ In the project directory, you ca
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload whe
+The page will 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.
