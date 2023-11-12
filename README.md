@@ -1,2 +1,1 @@
-Movie-land a ReactJs project. 
-i
+Movie-land a ReactJs project.
