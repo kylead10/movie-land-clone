@@ -1,1 +1,1 @@
-# movie-land-clone a ReactJs pr
+# movie-land-clone a ReactJs project.
