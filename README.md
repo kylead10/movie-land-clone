@@ -1,1 +1,1 @@
-movie-land-clone a ReactJs project. This is a 
+Movie-land-clone a ReactJs project. This is a web page
