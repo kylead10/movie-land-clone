@@ -1,2 +1,2 @@
 Movie-land a ReactJs project. 
-it utilises an Api
+it utilises an 
