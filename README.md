@@ -1,2 +1,1 @@
-# movie-land-clone
-React.js
+# movie-land-clone.
