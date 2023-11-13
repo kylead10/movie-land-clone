@@ -1,1 +1,1 @@
-Movie-land a ReactJs project. A project utilizing IDBM 
+Movie-land a ReactJs project. A project utilizing IDBM API to 
